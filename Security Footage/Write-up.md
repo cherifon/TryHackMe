@@ -3,6 +3,7 @@
 ## Description
 
 Link to the challenge: [Security Footage](https://tryhackme.com/room/securityfootage)
+
 *Someone broke into our office last night, but they destroyed the hard drives with the security footage. Can you recover the footage?*
 
 ## Solution
